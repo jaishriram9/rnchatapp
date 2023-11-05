@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139878531935",
+    "project_id": "rnchatapp-34ed3",
+    "storage_bucket": "rnchatapp-34ed3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139878531935:android:91b52353a321a0500dacea",
+        "android_client_info": {
+          "package_name": "com.reactnativechatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTywNYynkeSBNtL1ENNYO3kLg4TFF3OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
